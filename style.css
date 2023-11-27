@@ -1,0 +1,13 @@
+body{
+    background-color: grey;
+    color:pink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align:left
+}
+b {
+    font-size: 25pt;
+}
+.lightbox{
+    display:none;
+}
+    
